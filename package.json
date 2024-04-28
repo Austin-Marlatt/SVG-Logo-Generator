@@ -1,0 +1,17 @@
+{
+  "name": "svg-logo-generator",
+  "version": "1.0.0",
+  "description": "CLI app to automatically generate an svg logo.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Austin-Marlatt",
+  "license": "(MIT)",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
