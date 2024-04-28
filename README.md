@@ -37,6 +37,8 @@ npm i
 
 - `logo.svg` will be written with generated SVG
 
+- [Demo Video](https://drive.google.com/file/d/1SwF7dtMWziC5Zs7QlGH08jwOaMFsFqJn/view?usp=sharing)
+
 ## Tests
 
 The following command will run tests:
